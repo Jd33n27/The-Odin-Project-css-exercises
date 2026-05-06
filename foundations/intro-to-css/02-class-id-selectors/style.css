@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+p:nth-child(odd){
+    background-color: rgb(240, 128, 128);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#first-id{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#second-id{
+        background-color: lightgreen;
+        font-weight: bold;
+}
